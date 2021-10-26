@@ -28,6 +28,9 @@ export default class NavBar extends Component {
                                 <li className="nav-item">
                                 <Link className="nav-link" to="/kekambas">Kekambas</Link>
                                 </li>
+                                <li className="nav-item">
+                                <Link className="nav-link" to="/kekambasPost">Kekambas Post</Link>
+                                </li>
 
                             </ul>
                         </div>
